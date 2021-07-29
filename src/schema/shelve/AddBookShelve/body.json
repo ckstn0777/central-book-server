@@ -1,0 +1,16 @@
+{
+  "title": "Add Book Shelve",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "style": {
+      "type": "string"
+    }
+  },
+  "required": ["name", "color", "style"]
+}

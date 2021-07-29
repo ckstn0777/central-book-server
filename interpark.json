@@ -1,0 +1,46 @@
+{
+  title: '인터파크도서검색결과',
+  link: 'http://bsearch.interpark.com/dsearch/book.jsp?query=9791161754833&sch=book&order_tp=accuracy&contextCheckboxUseYn=N&filter_disp_no=028&titleCheckboxUseYn=N&personCheckboxUseYn=N&entrNmCheckboxUseYn=N',
+  language: 'ko',
+  copyright: 'Copyright ⓒ 2009 INTERPARK INT All rights reserved.',
+  pubDate: '28 Jun 2021 00:31:54 GMT',
+  imageUrl: 'http://bimage.interpark.com/renewPark/topGnb/logo.jpg',
+  totalResults: 1,
+  startIndex: 1,
+  itemsPerPage: 1,
+  maxResults: 10,
+  queryType: 'isbn',
+  query: '9791161754833',
+  searchCategoryId: '100',
+  searchCategoryName: '국내도서',
+  returnCode: '000',
+  returnMessage: '정상',
+  item: [
+    {
+      itemId: 344497066,
+      title: 'AWS 클라우드 머신러닝',
+      description: '한 권의 책으로 머신러닝 기초 개념부터 AWS의 머신러닝 서비스를 한번에 훑어볼 수 있으며, 크게 두 부분으로 나눠 설명한다. 1장부터 8장까지 전반부에서는  
+머신러닝의 기본 개념부터 데이터 수집, 전처리와 시각화, Scikit-learn을 통한 머신러닝 모델 생성과 모델 평가 방법을 다루며, 9장부터 17장까지는 Amazon S3를 시작으로 Comprehend, Lex, Rekognition 등 AWS의 주요 머신러닝 서비스를 간단한 실습과 함께 소개하고 AWS의 머신러닝 서비스 중 가장 핵심이 되는 SageMaker를 두 개의 장에 걸쳐 설명한다.',     
+      pubDate: '20201230',
+      priceStandard: 35000,
+      priceSales: 31500,
+      discountRate: '10',
+      saleStatus: '판매중',
+      mileage: '1750',
+      mileageRate: '6',
+      coverSmallUrl: 'http://bimage.interpark.com/goods_image/7/0/6/6/344497066h.jpg',
+      coverLargeUrl: 'http://bimage.interpark.com/goods_image/7/0/6/6/344497066s.jpg',
+      categoryId: '122',
+      categoryName: '국내도서',
+      publisher: '에이콘출판사',
+      customerReviewRank: 0,
+      author: '아비섹 미쉬라',
+      translator: '박정현',
+      isbn: '9791161754833',
+      link: 'http://book.interpark.com/blog/integration/product/itemDetail.rdo?prdNo=344497066&refererType=8303&bookblockname=bpmain_in&booklinkname=wg_search_07F4C83C73156786C3B2EC519F020E1BBABA9EE9947F7972DC50E516E0CC740B',
+      mobileLink: 'http://m.book.interpark.com/view.html?PRD_NO=344497066&SHOP_NO=0000400000',
+      additionalLink: 'http://book.interpark.com/gate/ippgw.jsp?goods_no=344497066&biz_cd=',
+      reviewCount: 0
+    }
+  ]
+}

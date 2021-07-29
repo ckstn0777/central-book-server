@@ -1,0 +1,51 @@
+{
+  "title": "Book Review Body",
+  "type": "object",
+  "properties": {
+    "bookShelveId": {
+      "type": "number"
+    },
+    "ratings": {
+      "type": "number"
+    },
+    "review": {
+      "type": "string"
+    },
+    "seq_num": {
+      "type": "number"
+    },
+    "bookInfo": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "image_url": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "category": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "pub_date": {
+          "type": "string"
+        },
+        "isbn": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "required": ["bookShelveId", "ratings", "review", "bookInfo"]
+}

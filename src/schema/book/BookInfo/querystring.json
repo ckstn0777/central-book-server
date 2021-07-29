@@ -1,0 +1,13 @@
+{
+  "title": "Book Info Querystring",
+  "type": "object",
+  "properties": {
+    "isbn": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "required": ["isbn"]
+}

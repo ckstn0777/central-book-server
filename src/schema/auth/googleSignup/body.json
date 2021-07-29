@@ -1,0 +1,21 @@
+{
+  "title": "Google Signup Body",
+  "type": "object",
+  "properties": {
+    "access_token": {
+      "type": "string"
+    },
+    "user_data": {
+      "type": "object",
+      "properties": {
+        "age": {
+          "type": "number"
+        },
+        "gender": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "required": ["access_token", "user_data"]
+}
